@@ -4,6 +4,14 @@
 
 Starter examples for building LLM apps with Streamlit.
 
+## Fork: Added examples
+
+- Palantir SDK + AIP Agent Quickstart. To run:
+
+```commandline
+streamlit run pages/6_Palantir_SDK_AIP_Agent_Quickstart.py
+```
+
 ## Overview of the App
 
 This app showcases a growing collection of LLM minimum working examples.
